@@ -1,4 +1,4 @@
-# 26-2_Arskiz
+# SeedVerse
 
 ## Setup
 
