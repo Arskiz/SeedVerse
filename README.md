@@ -5,6 +5,8 @@ Minecraft universe mod, which enables traversal across every seed in the game wi
 I don't have much time myself to develope this mod further at this time, as I have school to attend to,
 so don't wonder why I'm not terminally locked in to update this.
 
+Also it's worth noting, that OpenGL in minecraft will be deprecated, as it will be replaced with Vulkan in the future. So the graphics code should be rewritten eventually.
+
 ## Modrinth
 
 Download the mod and check out the official page on **[Modrinth](https://modrinth.com/mod/seedverse)**.
