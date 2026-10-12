@@ -1,9 +1,19 @@
-# 26-2_Arskiz
+# SeedVerse
 
-## Setup
+Minecraft universe mod, which enables traversal across every seed in the game with an OpenGL-rendered User Interface.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## Modrinth
+
+Download the mod and check out the official page on Modrinth:
+SeedVerse on **[Modrinth](https://modrinth.com/mod/seedverse)**
+
+## Features
+
+- **Massive 3D Galactic Map:** Explore clusters, galaxies, and star systems.
+- **Seed-Based Dimension Travel:** Every planet runs on its own unique world seed.
+- **Social Features:** Multi-player map pings, player tracker, and chat space beacons.
+- **Visual Shaders:** Custom GLSL shaders for celestial and black hole rendering.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is licensed under the MIT License. Feel free to contribute, report bugs, or update the mod for newer versions.
