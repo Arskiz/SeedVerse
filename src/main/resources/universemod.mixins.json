@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "arsqz.mod.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"BaseFireBlockMixin",
+		"ChunkMapMixin",
+		"EndPortalBlockMixin",
+		"ExampleMixin",
+		"MinecraftServerAccessor",
+		"NetherPortalBlockMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

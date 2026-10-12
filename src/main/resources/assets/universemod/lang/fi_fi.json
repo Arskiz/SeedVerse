@@ -1,0 +1,86 @@
+{
+  "item.universemod.galaxy_map": "Galaksien Kartta",
+
+  "gui.universemod.title": "Galaksien Kartta",
+  "gui.universemod.close": "Sulje",
+  "gui.universemod.back": "\u2190 Takaisin",
+  "gui.universemod.home": "\u2302 Koti",
+  "gui.universemod.search_hint": "Hae nimell\u00e4 tai siemenell\u00e4, paina Enter",
+  "gui.universemod.press_enter": "Matkusta painamalla Enter",
+
+  "gui.universemod.select_cluster": "Valitse galaksijoukko",
+  "gui.universemod.help_universe": "Keskiraahaus: kierr\u00e4   Vieritys: zoomaa   Napsauta joukkoa sukeltaaksesi",
+  "gui.universemod.clusters_count": "%s joukkoa maailmankaikkeudessa",
+
+  "gui.universemod.breadcrumb_universe": "Maailmankaikkeus",
+  "gui.universemod.breadcrumb_black_hole": "Musta aukko",
+  "gui.universemod.breadcrumb_star_system": "T\u00e4htij\u00e4rjestelm\u00e4",
+
+  "gui.universemod.help_galaxy": "Vasen raahaus: siirr\u00e4   Keskiraahaus: kierr\u00e4 (3D)   Vieritys: zoomaa   Napsauta valitaksesi",
+  "gui.universemod.help_backspace": "Askelpalautin: takaisin",
+
+  "gui.universemod.black_hole": "MUSTA AUKKO",
+  "gui.universemod.type": "TYYPPI",
+  "gui.universemod.distance": "ET\u00c4ISYYS",
+
+  "gui.universemod.last_visited": "Viimeiset %s vierailtua (Suosikit-v\u00e4lilehti kaikille)",
+  "gui.universemod.no_planets_visited": "Ei viel\u00e4 vierailtuja planeettoja",
+
+  "gui.universemod.tab_map": "Galaksikartta",
+  "gui.universemod.tab_favorites": "Suosikit / Viimeisimm\u00e4t",
+  "gui.universemod.tab_players": "Pelaajat",
+
+  "gui.universemod.players_online": "Pelaajia paikalla: %s",
+  "gui.universemod.players_none": "Ei pelaajia paikalla",
+  "gui.universemod.join": "Liity",
+  "gui.universemod.you": "(sin\u00e4)",
+
+  "gui.universemod.favorites": "Suosikit",
+  "gui.universemod.galaxies": "Galaksit",
+  "gui.universemod.planets": "Planeetat",
+  "gui.universemod.no_favorite_galaxies": "Ei suosikkigalakseja",
+  "gui.universemod.no_favorite_planets": "Ei suosikkiplaneettoja",
+  "gui.universemod.latest_visited": "Viimeksi vierailtu",
+  "gui.universemod.nothing_visited": "Ei viel\u00e4 vierailtu miss\u00e4\u00e4n",
+
+  "gui.universemod.quality": "Laatu: %s",
+
+  "gui.universemod.travel_to": "Matkusta kohteeseen",
+  "gui.universemod.travel_confirm": "%s?",
+  "gui.universemod.travel_yes": "Kyll\u00e4",
+  "gui.universemod.travel_no": "Peruuta",
+
+  "gui.universemod.star_system_label": "T\u00e4htij\u00e4rjestelm\u00e4 %s",
+
+  "gui.universemod.planet": "PLANEETTA",
+  "gui.universemod.seed": "SIEMEN",
+  "gui.universemod.copy_seed": "[kopioi]",
+  "gui.universemod.copied": "Kopioitu!",
+  "gui.universemod.share": "\u2605 Jaa majakka",
+  "gui.universemod.status": "TILA",
+  "gui.universemod.checking": "Tarkistetaan\u2026",
+  "gui.universemod.uncharted": "KARTOITTAMATON",
+  "gui.universemod.discovered_by": "L\u00d6YT\u00c4J\u00c4",
+  "gui.universemod.current_system": "Nykyinen j\u00e4rjestelm\u00e4",
+  "gui.universemod.you_are_here": "Olet t\u00e4\u00e4ll\u00e4",
+  "gui.universemod.host_star": "IS\u00c4NT\u00c4T\u00c4HTI",
+  "gui.universemod.star_system": "T\u00c4HTIJ\u00c4RJESTELM\u00c4",
+  "gui.universemod.star_type": "T\u00c4HTITYYPPI",
+  "gui.universemod.planets_count": "PLANEETAT",
+
+  "quality.universemod.very_low": "Eritt\u00e4in matala",
+  "quality.universemod.low": "Matala",
+  "quality.universemod.medium": "Keskitaso",
+  "quality.universemod.high": "Korkea",
+  "quality.universemod.ultra": "Ultra",
+
+  "galaxytype.universemod.spiral": "Spiraali",
+  "galaxytype.universemod.barred_spiral": "Sauvaspiraali",
+  "galaxytype.universemod.elliptical": "Elliptinen",
+  "galaxytype.universemod.irregular": "Ep\u00e4s\u00e4\u00e4nn\u00f6llinen",
+
+  "bh.universemod.kerr": "Kerr (py\u00f6riv\u00e4)",
+  "bh.universemod.quasar": "Kvasaari / AGN",
+  "bh.universemod.dormant": "Lep\u00e4\u00e4v\u00e4",
+  "bh.universemod.micro": "Mikro / alkukantainen"
+}

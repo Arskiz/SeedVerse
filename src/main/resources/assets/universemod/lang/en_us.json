@@ -1,0 +1,86 @@
+{
+  "item.universemod.galaxy_map": "Galaxy Map",
+
+  "gui.universemod.title": "Galaxy Map",
+  "gui.universemod.close": "Close",
+  "gui.universemod.back": "\u2190 Back",
+  "gui.universemod.home": "\u2302 Home",
+  "gui.universemod.search_hint": "Search name or seed, then Enter",
+  "gui.universemod.press_enter": "Press Enter to travel",
+
+  "gui.universemod.select_cluster": "Select a galaxy cluster",
+  "gui.universemod.help_universe": "Middle-drag: rotate   Scroll: zoom   Click a cluster to dive in",
+  "gui.universemod.clusters_count": "%s clusters in the universe",
+
+  "gui.universemod.breadcrumb_universe": "Universe",
+  "gui.universemod.breadcrumb_black_hole": "Black Hole",
+  "gui.universemod.breadcrumb_star_system": "Star System",
+
+  "gui.universemod.help_galaxy": "Left-drag: move   Middle-drag: rotate (3D)   Scroll: zoom   Click to select",
+  "gui.universemod.help_backspace": "Backspace: back",
+
+  "gui.universemod.black_hole": "BLACK HOLE",
+  "gui.universemod.type": "TYPE",
+  "gui.universemod.distance": "DISTANCE",
+
+  "gui.universemod.last_visited": "Last %s visited (Favorites tab for all)",
+  "gui.universemod.no_planets_visited": "No planets visited yet",
+
+  "gui.universemod.tab_map": "Galactic Map",
+  "gui.universemod.tab_favorites": "Favorites / Latest",
+  "gui.universemod.tab_players": "Players",
+
+  "gui.universemod.players_online": "Players online: %s",
+  "gui.universemod.players_none": "No players online",
+  "gui.universemod.join": "Join",
+  "gui.universemod.you": "(you)",
+
+  "gui.universemod.favorites": "Favorites",
+  "gui.universemod.galaxies": "Galaxies",
+  "gui.universemod.planets": "Planets",
+  "gui.universemod.no_favorite_galaxies": "No favorite galaxies",
+  "gui.universemod.no_favorite_planets": "No favorite planets",
+  "gui.universemod.latest_visited": "Latest visited",
+  "gui.universemod.nothing_visited": "Nothing visited yet",
+
+  "gui.universemod.quality": "Quality: %s",
+
+  "gui.universemod.travel_to": "Travel to",
+  "gui.universemod.travel_confirm": "%s?",
+  "gui.universemod.travel_yes": "Yes",
+  "gui.universemod.travel_no": "No",
+
+  "gui.universemod.star_system_label": "Star System %s",
+
+  "gui.universemod.planet": "PLANET",
+  "gui.universemod.seed": "SEED",
+  "gui.universemod.copy_seed": "[copy]",
+  "gui.universemod.copied": "Copied!",
+  "gui.universemod.share": "\u2605 Share beacon",
+  "gui.universemod.status": "STATUS",
+  "gui.universemod.checking": "Checking\u2026",
+  "gui.universemod.uncharted": "UNCHARTED",
+  "gui.universemod.discovered_by": "DISCOVERED BY",
+  "gui.universemod.current_system": "Current system",
+  "gui.universemod.you_are_here": "You are here",
+  "gui.universemod.host_star": "HOST STAR",
+  "gui.universemod.star_system": "STAR SYSTEM",
+  "gui.universemod.star_type": "STAR TYPE",
+  "gui.universemod.planets_count": "PLANETS",
+
+  "quality.universemod.very_low": "Very Low",
+  "quality.universemod.low": "Low",
+  "quality.universemod.medium": "Medium",
+  "quality.universemod.high": "High",
+  "quality.universemod.ultra": "Ultra",
+
+  "galaxytype.universemod.spiral": "Spiral",
+  "galaxytype.universemod.barred_spiral": "Barred spiral",
+  "galaxytype.universemod.elliptical": "Elliptical",
+  "galaxytype.universemod.irregular": "Irregular",
+
+  "bh.universemod.kerr": "Kerr (spinning)",
+  "bh.universemod.quasar": "Quasar / AGN",
+  "bh.universemod.dormant": "Dormant",
+  "bh.universemod.micro": "Micro / primordial"
+}
