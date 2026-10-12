@@ -2,10 +2,12 @@
 
 Minecraft universe mod, which enables traversal across every seed in the game with an OpenGL-rendered User Interface.
 
+I don't have much time myself to develope this mod further at this time, as I have school to attend to,
+so don't wonder why I'm not terminally locked in to update this.
+
 ## Modrinth
 
-Download the mod and check out the official page on Modrinth:
-SeedVerse on **[Modrinth](https://modrinth.com/mod/seedverse)**
+Download the mod and check out the official page on **[Modrinth](https://modrinth.com/mod/seedverse)**.
 
 ## Features
 
